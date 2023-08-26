@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilenceOverflow&count_private=true&show_icons=true" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=SilenceOverflow&count_private=true&show_icons=true" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilenceOverflow" align="right" />
 
 - 🔭 I’m currently working on **SLAM** and **Computer Vision**
 - 🌱 I’m currently learning **State Estimation for Robotics**
